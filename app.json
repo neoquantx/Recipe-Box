@@ -27,14 +27,6 @@
       "favicon": "./assets/favicon.png"
     },
     "extra": {
-      "firebase": {
-        "apiKey": "AIzaSyB45hJlBIEe8cVw8Bw95WYga7zDT8Bzwsw",
-        "authDomain": "recipebox-a98ed.firebaseapp.com",
-        "projectId": "recipebox-a98ed",
-        "storageBucket": "recipebox-a98ed.firebasestorage.app",
-        "messagingSenderId": "252204473514",
-        "appId": "1:252204473514:web:da4f6dde3f017e133f84d3"
-      },
       "eas": {
         "projectId": "db4d841e-e280-4add-a14b-8af2d7ecc79f"
       }
